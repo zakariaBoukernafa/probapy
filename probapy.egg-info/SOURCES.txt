@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+probapy/Binomialdistribution.py
+probapy/Gaussiandistribution.py
+probapy/Generaldistribution.py
+probapy/__init__.py
+probapy.egg-info/PKG-INFO
+probapy.egg-info/SOURCES.txt
+probapy.egg-info/dependency_links.txt
+probapy.egg-info/not-zip-safe
+probapy.egg-info/top_level.txt
